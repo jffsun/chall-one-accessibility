@@ -8,13 +8,13 @@ For this challenge, the HTML and CSS code was refactored to be made more accessi
 
 The following image shows the Horiseon webpage:
 
-![The Horiseon webpage](./Assets/images/01-html-css-git-homework-demo.png)
+![The Horiseon webpage](./assets/images/01-html-css-git-homework-demo.png)
 
 ### Accessibility with Alt Text 
 
 The following image shows the webpage's HTML code with alternative text added: 
 
-![The Horiseon webpage includes images with alt text to increase accessibilit for users.](./Assets/images/alt-text-screenshot.png)
+![The Horiseon webpage includes images with alt text to increase accessibilit for users.](./assets/images/alt-text-screenshot.png)
 
 ### Link to Github Page
 [https://jffsun.github.io/chall-one-accessibility/](https://jffsun.github.io/chall-one-accessibility/).
