@@ -6,9 +6,10 @@ For this challenge, the HTML and CSS code was refactored to be made more accessi
 
 ### Horiseon Webpage 
 
-The following image shows the Horiseon webpage:
+The following images shows the Horiseon webpage:
 
-![The Horiseon webpage](./assets/images/01-html-css-git-homework-demo.png)
+![The Horiseon webpage](./assets/images/horiseon-screenshot-1.png)
+![The Horiseon webpage](./assets/images/horiseon-screenshot-2.png)
 
 ### Accessibility with Alt Text 
 
